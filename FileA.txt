@@ -1,4 +1,2 @@
 This is FileA
 There is a modification in File A.
-This is my khujli to learn GIt
-unstaging a file
